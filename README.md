@@ -6,10 +6,10 @@
 This project is designed to automate the testing of a web application using the following tools and technologies:
 
 * Cucumber:
-For writing feature files and step definitions in a BDD format.
+This is for writing feature files and step definitions in a BDD format.
 
 * Selenium WebDriver:
-For browser automation and interacting with web elements.
+This is for browser automation and interacting with web elements.
 
 * TestNG/JUnit:
 For test execution and reporting.
@@ -27,21 +27,21 @@ For dependency management and build automation.
 * Browser: Chrome, Firefox, or any other browser supported by Selenium WebDriver.
  #### Project Structure
 
-1. Pages Package : this contains all pages as class
-2. Utilities Package: this package contains
+1. Pages Package: this contains all pages as a class
+2. Utilities Package: This package contains
     * Helper Package: 
-        * ElementActions: To interact with element
+        * ElementActions: To interact with an element
         * ScrollingActions: To scroll in page
         * VerifyAction: To verify actions
-        * WebBrowsers: To change selected browser
+        * WebBrowsers: To change the selected browser
     
-    * Readers : To read files
-3. Runner package : To Run features
+    * Readers Package: To read files
+3. Runner package: To Run features
 4. stepDef package: To define steps
 5. Hooks: To set before and after configuration
 6. Feature package: To add feature files
 7. Cucumber.properties: To generate cucumber report 
-8. Test Config.properties: To set config
+8. Test Config.properties: To set the config
  ##### Project Setup
  1. Clone the Repository
  Clone this repository to your local machine:
