@@ -64,13 +64,19 @@ Or
 
           Run from TestRunner
           
-  3. Genetate Report from terminal 
+  3. Generate Report from terminal 
  
           1- Please open the Cucumber report URL from Terminal
   
-Example:For cucumber
+Example: For cucumber
 
 ![image](https://github.com/user-attachments/assets/a052ef86-3aca-413d-867a-32e8357d5935)
 ![image](https://github.com/user-attachments/assets/bdb0ff70-f7aa-440e-98f7-dd541918452e)
+
+Running Example:
+
+https://github.com/user-attachments/assets/5350b8e5-7414-4da2-8368-7b2983961185
+
+
 
 
