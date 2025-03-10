@@ -5,31 +5,31 @@
 ### Project Overview
 This project is designed to automate the testing of a web application using the following tools and technologies:
 
-#### Cucumber:
+* Cucumber:
 For writing feature files and step definitions in a BDD format.
 
-##### Selenium WebDriver:
+* Selenium WebDriver:
 For browser automation and interacting with web elements.
 
-#### TestNG/JUnit:
+* TestNG/JUnit:
 For test execution and reporting.
 
-#### Maven:
+* Maven:
 For dependency management and build automation.
  
  ### Prerequisites
  Before running the project, ensure the following tools and dependencies are installed:
 
- Maven: Version 3.6.x or higher (if using Maven).
+ * Maven: Version 3.6.x or higher (if using Maven).
 
- IDE: IntelliJ IDEA, Eclipse, or any other Java IDE.
+ * IDE: IntelliJ IDEA, Eclipse, or any other Java IDE.
 
-Browser: Chrome, Firefox, or any other browser supported by Selenium WebDriver.
- ##### Project Stucture
+* Browser: Chrome, Firefox, or any other browser supported by Selenium WebDriver.
+ #### Project Structure
 
 1. Pages Package : this contains all pages as class
 2. Utilities Package: this package contains
-    * Helper: 
+    * Helper Package: 
         * ElementActions: To interact with element
         * ScrollingActions: To scroll in page
         * VerifyAction: To verify actions
